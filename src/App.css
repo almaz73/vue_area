@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  #app {
+    font-family: Helvetica, Arial, sans-serif;
+    display: flex;
+    height: 100vh;
+  }
+  .night {
+    color: #fff;
+    background: #333;
+  }
+  .not-night {
+    color: #222;
+    background: #fff;
+  }
